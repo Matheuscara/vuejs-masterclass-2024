@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>Welcome to init course</h1>
+  <main>
+    <RouterView />
+  </main>
 </template>
 
 <style scoped></style>
